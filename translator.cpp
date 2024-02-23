@@ -1,17 +1,5 @@
-//****************************************************************************************************
-//     File:               Assignment9.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #9
-// 
-//     Course Name:        Programming II
-// 
-//     Course Number:      COSC 1560-01
-// 
-//     Due:                November 13, 2023
-//
-//     This program translates from American to English.
+//     This program translates words from American English to British
+//     English.
 //
 //****************************************************************************************************
 
